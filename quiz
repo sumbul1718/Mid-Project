@@ -1,0 +1,305 @@
+#MID PROJECT
+#GROUP MEMBERS:
+#SUMBUL
+#FIZA
+#SAMIA
+#PROJECT NAME:CREATE QUIZ APP
+
+#Multiple Choice QUIZ
+question1="MS word is software?"
+A="Application"
+B="Complier"
+C="System"
+print("Answer1 : Application")
+
+question2="which is not in MS word?"
+A="Italic"
+B="Magic tool"
+C="font"
+print("Answer2:Magic tool")
+
+question3="which is not an edition"
+A="MS word 2003"
+B="MS word 2007"
+C="MS word 1020"
+print("Answer3: MS word 1020")
+
+question4="Formating is performed on?"
+A="Text"
+B="Table"
+C="Both(A) and (B)"
+print("Answer3: both(A) and (B)")
+
+question5="Which type of programming does python?"
+A="Object-oriented programming"
+B="Strutured programming"
+C="All of the mentioned"
+print("Answer5: All of the mentioned")
+
+question6="is python case sensetive when dealing with indentifiers?"
+A="No"
+B="Yes"
+C="None of the mentioned"
+print("Answer6: Yes")
+
+question7="Which is the followings the correct extension of the python file?"
+A="Python"
+B="pi"
+C="Py"
+print("Answer7:Py")
+
+question8="which keyword is used for functioning in python language"
+A="Funtion"
+B="Def"
+C="Fun"
+print("Answer8: def")
+
+question9="which one of the following is not a keyword in python language"
+A="Assert"
+B="Pass"
+C="Eval"
+print("answer9: eval")
+
+question10="Which module inthe python standard library parses option received from the command line?"
+A="Getarg"
+B="Getopt"
+C="Main"
+print("Answer10: Getopt")
+
+question11="the handout master consist of placeholders for all of these except the?"
+A="Title"
+B="Slide number"
+C="Header"
+print("Answer11: Title")
+
+question12="what is the max zoom percentage in MS power point?"
+A="400%"
+B="300%"
+c="200%"
+print("Answer12: 400")
+
+question13="which of these is a type of sound file?"
+A="DAT files"
+B="LOG files"
+C="WAV files"
+print("Answer13: WAV files")
+
+question14="we can find any and every command on the?"
+A="Menu bar"
+B="Standard toolbar"
+C="Drawing toolbar"
+print("Answer14: Menu bar")
+
+question15="in MS powerpoint presentations, the designs regulate the layout and formatting for the slide. these are commonly known as?"
+A="Blueprints"
+B="Placeholders"
+C="Templates"
+print("Answer15: Templates")
+
+question16="which of these powerpoint features would allow any user to create a given simple presentation quicker?"
+A="Autocontent wizard"
+B="chart wizard"
+c="Animations"
+print("Answer16: Autocontent Wizard")
+
+question17="the file that consists of readymade styles that we can easily use for our pretentation is known as?"
+A="pre formatting"
+B="Template"
+C="Wizard"
+print("Answer17: Template")
+
+question18="A powerpoint design template is stored in any file with?"
+A="pot extension"
+B="ptt extension"
+C="ppt extension"
+print("Answer18: pot extension")
+
+question19="which is these options in powerpoint would allow us to carry any set of slides from a given computer to another one?" 
+A="Web and Go"
+B="Pack and Go"
+C="Save and Go"
+print("Answer19: Pack and Go")
+
+question20="in the current presentation, if we want to insert a new slides,we can chose which of these?"
+A="Ctrl+F"
+B="Ctrl+O"
+C="ctrl+M"
+print("Answer20: Ctrl+M")
+
+question21="which iof these refers to powepoint view used foe displaying only the text (title and bullets)?"
+A="Slide sorter show"
+B="Outline veiw"
+c="Notes page veiw"
+print("Answer21: Outline veiw")
+
+question22="which of these terms do we use when an image in clip art changes the direction that it was originally facing?"
+A="Mirror"
+B="Rotate"
+C="Flip"
+print("Answe22: Rotate")
+
+question23="which toolbar provides various options in different master veiw?"
+A="Standard toolbar"
+B="Formatting toolbar"
+C="Common tasks toolbar"
+print("Answer23: Common tasks toolbar")
+
+question24="which of these features should one use when we want to type in the text box for notes?"
+A="Insert"
+B="Slide show"
+C="Zoom"
+print("Answer24: Zoom")
+
+question25="which of these is the page setup orientation by default of slides in powerpoints?"
+A="Landscape"
+B="Portrait"
+C="Vertical"
+print("Answer25: Landscapes")
+
+question26="from which of these menus can we access a text box, picture, chart etc?"
+A="Veiw"
+B="Insert"
+C="Edit"
+print("Answer26: Insert")
+
+question27="which of these font effects is NOT available in the powerpoint font dialogue box?"
+A="Shadow"
+B="Underline"
+C="Strikethrough"
+print("Answer27: Strikethrough")
+
+question28="which of these sections does a slide layout NOT have?"
+A="List"
+B="Animations"
+C="Tittle"
+print("Answer28: Animations")
+
+question29="what do we use if we want to add texts in a given slides?"
+A="Comment box"
+B="Text layer"
+C="Text box"
+print("Answer29: Text boox")
+
+question30="which types of templates provides all the users with a design concept, colour scheme, and fonts for presentation?"
+A="Content"
+B="Design"
+C="Normal"
+print("Answer30: Design")
+
+question31="who is develped python programming language?"
+A="Wick van Rossum"
+B="Rasmus Lerdorf"
+c="Guido van Rossum"
+print("Answer31: Guido van Rossum")
+
+question32="what will be the value of the following python expression 4+3% 5?"
+A="7"
+B="2"
+C="4"
+print("Answer32: 7")
+
+question33="which of the following is used to define a block of the code in python language?"
+A="Key"
+B="indentation"
+C="Brackets"
+print("Answer33: indentation")
+
+question34="which keyword is used for function in python language?"
+A="Function"
+B="Def"
+C="Fu"
+print("Answer34: Def")
+
+question35="which of the following character is used to give single-line comments in python?"
+A="//"
+B="#"
+C="/*"
+print("Answer35: #")
+
+question36="which of the following functions can help us to find the version of the python that we are?"
+A="sys.version(1)"
+B="sys.version(0)"
+C="sys.version"
+print("Answer36: sys.version")
+
+question37="python supports the creation of anonymous function at runtime, using a construct called?"
+A="pi"
+B="anonymous"
+c="Lambda"
+print("Answer37: Lambda")
+
+question38="what does pip stand for python?"
+A="pip installs python"
+B="pip installs packages"
+C="preferred installer program"
+print("Answer38: preferred installer program")
+
+question39="which of the following is the truncation division operator in python?"
+A="|"
+B="//"
+C="%"
+print("Answer39: //")
+
+question40="which of the following function is a built-in function in python?"
+A="factorial()"
+B="print()"
+C="seed()"
+question41="which of the following is the use of id() function in python?"
+A="every object doesn't have a unique id"
+B="id retutns the identity of the  object"
+C="none of mentioned"
+print("Answer41: id returns of the identity of the object")
+
+question42="which of the following is not a core data type in python language?"
+A="Tuples"
+B="Lists"
+c="Class"
+print("Answer42: Class")
+
+question43="which module in the python standard library parses options received from the command line?"
+A="getarg"
+B="getopt"
+c="os"
+print("Answer43: Getopt")
+
+question44="what arithmetic operator cannot be used with string in python?"
+A="*"
+B="-"
+c="+"
+print("Anmswer44: -")
+
+question45="what is output of print(math.pow(3,2))?"
+A="9.0"
+B="none"
+C="9"
+print("Answer45: 9.0")
+
+question46="which of the following statement is used to create an empty set in python?"
+A="()"
+B="{}"
+C="set{}"
+print("Answer46: set{}")
+
+question47="to add a new element to a list we use which python command?"
+A="list1.addEnd(5)"
+B="list1.addLast(5)"
+C="list1.append(5)"
+print("Answer47: list1.append(5)")
+
+question48="what is the maximum possible lenght of an identifier in python?"
+A="79 characters"
+B="31 characters"
+C="none of the mentioned"
+print("Answe48: none of mentioned")
+
+question49="what are the two main type of function in python?"
+A="system function"
+B="custom function"
+C="built-in function and user defined function"
+print("Answer49: built-in function and user defined function")
+
+question50="which of the following is a python tuple?"
+A="{1,2,3}"
+B="{}"
+c="(1,2,3)"
+print("Answer50: (1,2,3)")
